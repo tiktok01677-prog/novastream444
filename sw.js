@@ -1,4 +1,4 @@
-const CACHE_NAME = "hisaab-shell-v1";
+const CACHE_NAME = "hisaab-shell-v2-github";
 const APP_SHELL = ["./", "./manifest.webmanifest", "./favicon.svg", "./app-icon.svg"];
 
 self.addEventListener("install", (event) => {
