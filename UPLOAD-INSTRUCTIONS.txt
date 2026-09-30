@@ -1,0 +1,25 @@
+HISAAB - GITHUB PAGES NO-FOLDER BUILD
+
+IMPORTANT: Upload the CONTENTS of this folder directly to the repository ROOT.
+Do NOT upload a dist folder and do NOT create an assets folder.
+
+Repository root must visibly contain:
+index.html
+style.css
+index-BC2G8nfG.js
+framework-D_rUT4EX.js
+rolldown-runtime-C60lm6uB.js
+expense-planner-CSA2olPX.js
+layout-segment-context-4aOqaatb.js
+streamed-icons-Bumrcy-j.js
+app-route-prefetch-policy-BK811TDE.js
+manifest.webmanifest
+favicon.svg
+app-icon.svg
+sw-v4.js
+privacy.html
+404.html
+
+GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+Open only the github.io Pages URL, not the github.com repository URL.
+No npm install and no build command are required.
